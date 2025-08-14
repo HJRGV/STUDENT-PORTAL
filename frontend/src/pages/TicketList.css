@@ -1,0 +1,15 @@
+.ticket-list {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 25px;
+}
+
+.ticket-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.ticket-list li {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}

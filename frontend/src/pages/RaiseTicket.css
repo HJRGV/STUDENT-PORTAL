@@ -1,0 +1,15 @@
+.ticket-form {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 25px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.ticket-form input,
+.ticket-form textarea,
+.ticket-form button {
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 10px;
+}

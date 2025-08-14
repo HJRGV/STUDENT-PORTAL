@@ -1,0 +1,14 @@
+.register-form {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 25px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.register-form input,
+.register-form button {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+}
